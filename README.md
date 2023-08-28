@@ -2,6 +2,10 @@
 
 The website is built using HTML, CSS, JS, and ReactJS. This project was created as an interview assignment for “Reelo”.
 
+
+https://github.com/TanveerAli345/Reelo-Assignment/assets/104294807/b22d1bbd-abd6-46a5-b2ea-06c7048e2d97
+
+
 ## Getting Started
 
 To get started, clone the repository and install the dependencies:
